@@ -1,0 +1,13 @@
+bin
+target
+.gradle
+build
+.classpath
+.project
+.settings
+test-output
+*.iso
+reports/
+
+# Ignore Kotlin plugin data
+.kotlin
